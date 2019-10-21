@@ -15,6 +15,5 @@ and I tried using beginContour() and endContour() to crop out two triangles off 
 and a rectangle but I had trouble doing so. Instead, I created separate shapes and translated them into place which took a lot
 of time. 
 
-I spent a lot of time trying to change every single value of the location of shapes whenever they weren't in place, but I found
-out towards the end that I could just use translate() to move several shapes around the canvas all together.
+I spent a lot of time trying to change every single value of the location of shapes whenever they weren't in place, but I found out towards the end that I could have just used translate() to move several shapes around the canvas all together.
 
